@@ -1,0 +1,6 @@
+{
+  "name": "Team Uniuyo Competitions Hub",
+  "description": "Official management and tracking platform for legal and academic competitions at the University of Uyo, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
